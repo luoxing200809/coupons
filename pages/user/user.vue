@@ -17,13 +17,6 @@
 					<image class="right" src="/static/right_h.png"></image>
 				</button>
 			</view>
-			<view class="item" bindtap="sponsor">
-				<image class="icon" src="/static/user_hezuo.png"></image>
-				<button class="content share" open-type="contact">
-					<view>我要制作</view>
-					<image class="right" src="/static/right_h.png"></image>
-				</button>
-			</view>
 			<view class="item">
 				<image class="icon" src="/static/user_kefu.png"></image>
 				<button class="content share" open-type="contact">
@@ -33,7 +26,7 @@
 			</view>
 		</view>
 		<view class="version">
-			v3.0
+			v1.0.0
 		</view>
 	</view>
 </template>
